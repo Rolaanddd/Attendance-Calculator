@@ -1,50 +1,65 @@
-# Welcome to your Expo app 👋
+# ClassTrack - The Attendance Calculator
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Check how many classes you can bunk or attend to maintain your target attendance.**
 
-## Get started
+---
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- Input classes attended  
+- Input total classes  
+- Input desired attendance percentage  
+- Calculates how many classes you can bunk  
+- Calculates how many classes you must attend  
+- Light theme UI  
+- Minimal modern design  
+- Offline mode  
+- Student-friendly
+- Clean layout  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## Tech Stack
 
-In the output, you'll find options to open the app in a
+- Expo React Native  
+- Tailwind CSS  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Screenshots
 
-## Get a fresh project
+![1000116597](https://github.com/user-attachments/assets/c38b059b-3a2c-4d93-86c5-1ceeafa627a4)
+![1000116599](https://github.com/user-attachments/assets/8aed12e7-c208-4e0c-adc7-9d2f7f203d26)
+![1000116598](https://github.com/user-attachments/assets/7acbbcbf-43f2-47e9-bc48-ce8ffe9e4d50)
+![1000116600](https://github.com/user-attachments/assets/7ecca3b7-5831-40bf-b582-f4165606227a)
 
-When you're ready, run:
 
+## Installation
+
+1. Clone the repository:  
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/class-track.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2.Navigate to the project folder:
+```bash
+cd class-track
+```
 
-## Learn more
+3.Install dependencies:
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4.Start the app:
+```bash
+npx expo start
+```
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## APK
 
-Join our community of developers creating universal apps.
+Download the latest APK [here](https://github.com/Rolaanddd/Attendance-Calculator/releases/download/v1.0/ClassTrack.apk)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
