@@ -35,12 +35,12 @@
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/class-track.git
+git clone https://github.com/Rolaanddd/Attendance-Calculator.git
 ```
 
 2.Navigate to the project folder:
 ```bash
-cd class-track
+cd Attendance-Calculator
 ```
 
 3.Install dependencies:
