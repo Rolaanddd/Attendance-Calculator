@@ -1,8 +1,7 @@
 # ClassTrack - The Attendance Calculator
 
-**Check how many classes you can bunk or attend to maintain your target attendance.**
+**Track how many classes you can bunk or attend to maintain your target attendance.**
 
----
 
 ## Features
 
@@ -17,14 +16,12 @@
 - Student-friendly
 - Clean layout  
 
----
 
 ## Tech Stack
 
 - Expo React Native  
 - Tailwind CSS  
 
----
 
 ## Screenshots
 
