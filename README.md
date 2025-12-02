@@ -28,10 +28,10 @@
 
 ## Screenshots
 
-![1000116597](https://github.com/user-attachments/assets/c38b059b-3a2c-4d93-86c5-1ceeafa627a4)
-![1000116599](https://github.com/user-attachments/assets/8aed12e7-c208-4e0c-adc7-9d2f7f203d26)
-![1000116598](https://github.com/user-attachments/assets/7acbbcbf-43f2-47e9-bc48-ce8ffe9e4d50)
-![1000116600](https://github.com/user-attachments/assets/7ecca3b7-5831-40bf-b582-f4165606227a)
+<img src="https://github.com/user-attachments/assets/c38b059b-3a2c-4d93-86c5-1ceeafa627a4" width="300" />
+<img src="https://github.com/user-attachments/assets/8aed12e7-c208-4e0c-adc7-9d2f7f203d26" width="300" />
+<img src="https://github.com/user-attachments/assets/7acbbcbf-43f2-47e9-bc48-ce8ffe9e4d50" width="300" />
+<img src="https://github.com/user-attachments/assets/7ecca3b7-5831-40bf-b582-f4165606227a" width="300" />
 
 
 ## Installation
