@@ -35,24 +35,22 @@ export default function Index() {
   };
 
   return (
-    <SafeAreaView className="flex-1 bg-gray-50">
+    <SafeAreaView className="flex-1 bg-[#1A1D21]">
       <View className="flex-1 px-6 pt-12">
-        <Text className="text-3xl font-bold text-gray-900 mb-2">
-          Attendance
-        </Text>
+        <Text className="text-3xl font-bold text-white mb-2">ClassTrack</Text>
         <Text className="text-gray-500 mb-12">
-          Track your classes & stay safe
+          Know when to chill, know when to attend.
         </Text>
 
         {/* Classes Present */}
         <View className="mb-8">
           <Text className="text-xs font-semibold text-gray-500 uppercase mb-3 tracking-wide">
-            CLASSES PRESENT
+            Classes Attended
           </Text>
-          <View className="flex-row items-center bg-white rounded-xl px-4 py-4 shadow-sm">
+          <View className="flex-row items-center bg-[#23282D] rounded-xl px-4 py-4 shadow-sm">
             <Check size={20} color="#9CA3AF" className="mr-3" />
             <TextInput
-              className="flex-1 text-base text-gray-900"
+              className="flex-1 text-base text-white"
               placeholder="e.g. 45"
               placeholderTextColor="#9CA3AF"
               keyboardType="numeric"
@@ -65,12 +63,12 @@ export default function Index() {
         {/* Total Classes */}
         <View className="mb-8">
           <Text className="text-xs font-semibold text-gray-500 uppercase mb-3 tracking-wide">
-            TOTAL CLASSES
+            Total Classes So Far
           </Text>
-          <View className="flex-row items-center bg-white rounded-xl px-4 py-4 shadow-sm">
+          <View className="flex-row items-center bg-[#23282D] rounded-xl px-4 py-4 shadow-sm">
             <Calendar size={20} color="#9CA3AF" className="mr-3" />
             <TextInput
-              className="flex-1 text-base text-gray-900"
+              className="flex-1 text-base text-white"
               placeholder="e.g. 60"
               placeholderTextColor="#9CA3AF"
               keyboardType="numeric"
@@ -85,10 +83,10 @@ export default function Index() {
           <Text className="text-xs font-semibold text-gray-500 uppercase mb-3 tracking-wide">
             TARGET PERCENTAGE
           </Text>
-          <View className="flex-row items-center bg-white rounded-xl px-4 py-4 shadow-sm">
+          <View className="flex-row items-center bg-[#23282D] rounded-xl px-4 py-4 shadow-sm">
             <TrendingUp size={20} color="#9CA3AF" className="mr-3" />
             <TextInput
-              className="flex-1 text-base text-gray-900"
+              className="flex-1 text-base text-white"
               placeholder="75"
               placeholderTextColor="#9CA3AF"
               keyboardType="numeric"
@@ -102,14 +100,14 @@ export default function Index() {
 
         {/* Calculate Button */}
         <TouchableOpacity
-          className="bg-gray-900 rounded-2xl py-4 mb-8 shadow-lg flex-row items-center justify-center"
+          className="bg-[#2377dd] rounded-2xl py-4 mb-8 shadow-lg flex-row items-center justify-center"
           onPress={handleCalculate}
           activeOpacity={0.8}
         >
           <Text className="text-white text-center text-base font-semibold mr-2">
             Calculate
           </Text>
-          <ArrowRight size={20} color="#FFFFFF" />
+          <ArrowRight size={20} color="#ffffff" />
         </TouchableOpacity>
       </View>
     </SafeAreaView>
